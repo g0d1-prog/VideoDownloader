@@ -18,12 +18,14 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 - Pytube
 
 # Dificuldades:
+
 - Criar um layout responsivo
 - Funcionalidade da barra de progresso
 - Threading
 - Mudanças no Layout através do VSCode e não do QtDesigner
 
 # Aprendizados:
+
 - Organização do tempo
 - Diversas libs que não conhecia
 - Integração do FrontEnd com o BackEnd
@@ -31,6 +33,8 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 - Visão do cliente
 
 # Link para download do programa:
-https://drive.google.com/u/0/uc?export=download&confirm=femd&id=1TcdiaWl-W7ngQo_Wwmv4c0foMzlv3u7B
+
+https://drive.google.com/u/0/uc?export=download&confirm=H9eL&id=1qpBWpsZBKLtnJRX0K_KhBmYD03RUnB3a
+
 Basta clicar em manter, e extrair o arquivo, na pasta que gostaria que o programa baixe os vídeos!
 Fique tranquilo, o programa não irá afetar a integridade de seu computador, e não é perigoso.
