@@ -23,13 +23,13 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 - Funcionalidade da barra de progresso
 - Threading
 - Mudanças no Layout através do VSCode e não do QtDesigner
+- Barra de Rolagem
 
 # Aprendizados:
 
 - Organização do tempo
 - Diversas libs que não conhecia
 - Integração do FrontEnd com o BackEnd
-- FrontEnd Responsivo
 - Visão do cliente
 
 # Link para download do programa:
