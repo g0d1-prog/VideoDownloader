@@ -23,7 +23,7 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 - Funcionalidade da barra de progresso
 - Threading
 - Mudanças no Layout através do VSCode e não do QtDesigner
-- Barra de Rolagem
+- Adicionar uma Barra de Rolagem
 
 # Aprendizados:
 
