@@ -36,5 +36,6 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 
 https://drive.google.com/u/0/uc?export=download&confirm=11x3&id=1qpBWpsZBKLtnJRX0K_KhBmYD03RUnB3a
 
-Basta clicar em manter, e extrair o arquivo, na pasta que gostaria que o programa baixe os vídeos!
+Basta clicar em manter, e extrair o arquivo, na pasta que gostaria que o programa baixe os vídeos, após isto, entre na pasta e execute o arquivo mainWindow.exe
+
 Fique tranquilo, o programa não irá afetar a integridade de seu computador, e não é perigoso.
