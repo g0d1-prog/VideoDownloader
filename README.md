@@ -32,3 +32,5 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 
 # Link para download do programa:
 https://drive.google.com/u/0/uc?export=download&confirm=femd&id=1TcdiaWl-W7ngQo_Wwmv4c0foMzlv3u7B
+Basta clicar em manter, e extrair o arquivo, na pasta que gostaria que o programa baixe os vídeos!
+Fique tranquilo, o programa não irá afetar a integridade de seu computador, e não é perigoso.
