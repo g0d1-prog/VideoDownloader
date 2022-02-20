@@ -30,7 +30,6 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 
 - Criar um layout responsivo
 - Funcionalidade da barra de progresso
-- Threading
 - Mudanças no Layout através do VSCode e não do QtDesigner
 - Adicionar uma Barra de Rolagem
 
@@ -40,6 +39,7 @@ Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
 - Diversas libs que não conhecia
 - Integração do FrontEnd com o BackEnd
 - Visão do cliente
+- Threading
 
 # Link para download do programa:
 
