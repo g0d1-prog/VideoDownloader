@@ -1,20 +1,8 @@
 # VideoDownloader
 
-# INOPERANTE NO MOMENTO, EXPLICAÇÃO:
-O YouTube adicionou funções sem parâmetros para seu JavaScript, assim, retornando o erro:
+Este é um baixador de vídeos do Youtube, atualmente é meu primeiro projeto na programação em Python, espero que gostem!
 
-''AttributeError: 'NoneType' object has no attribute 'span''
-
-Sendo assim, a API principal, utilizada para baixar os vídeos está inoperante, até os desenvolvedores do PyTube lançarem uma atualização...
-
-Peço desculpas pelo ocorrido.
-
-Baixador de vídeos do Youtube feito em Python
-
-Basta colocar o link, e confirmá-lo, após isto o vídeo será baixado na pasta Downloads dentro da pasta raiz do programa!
-Primeiro de muitos projetos pessoais
-
-Acima estão os códigos utilizados, primeiro projeto completo com sucesso!
+Acima estão os códigos utilizados do primeiro projeto completo com sucesso!
 
 # Programas e ferramentas utilizados:
 
