@@ -23,10 +23,9 @@ Acima estão os códigos utilizados do primeiro projeto completo com sucesso!
 
 # Aprendizados:
 
-- Organização do tempo
-- Diversas libs que não conhecia
+- Técnicas do FrontEnd
+- Uso de diferentes bibliotecas
 - Integração do FrontEnd com o BackEnd
-- Visão do cliente
 - Threading
 
 # Link para download do programa:
