@@ -5,12 +5,10 @@
 
 - [Problem Statement](#problem_statement)
 - [Idea / Solution](#idea)
-- [Dependencies / Limitations](#limitations)
 - [Future Scope](#future_scope)
 - [Setting up a local environment](#getting_started)
 - [Usage](#usage)
 - [Technology Stack](#tech_stack)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
 - [Download](#download)
@@ -23,11 +21,6 @@ In the actual days, there are a big problem, especially with copyrights, in down
 
 The solution that I got was, making a software myself to solve my problem, because, other websites or softwares with the 
 purpose were with usage problems, and to solve this, I made myself, and, in this way I can solve the eventual problems if it appears
-
-## ⛓️ Dependencies / Limitations <a name = "limitations"></a>
-
-- The dependecies to use the software are: You have to connect to the internet to use it, and you has to access Youtube, only these!
-- There aren't any limitation in this project, you can use it as much as you want.
 
 ## 🚀 Future Scope <a name = "future_scope"></a>
 
