@@ -89,5 +89,5 @@ write the code, and edit the software!
 - Project Deployment
 
 ## Download <a name = "download"></a>
-- [VideoDownloader]https://shorturl.at/cBKL1  
+- [VideoDownloader](https://shorturl.at/cBKL1)
 
