@@ -35,9 +35,9 @@ VideoDownloader v3, with a better logo, and better design!
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-- Download the Software
-- Extract the files
-- Execute the VideoDownloader.exe
+- Download the setup
+- Install it
+- Execute VideoDownloader
 - Write the Youtube link
 - Click on the green button: "Catch Video from Youtube"
 - Check if the video is right
