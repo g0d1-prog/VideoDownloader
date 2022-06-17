@@ -13,6 +13,7 @@
 - [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgments)
+- [Download](#download)
 
 ## 🧐 Problem Statement <a name = "problem_statement"></a>
 
@@ -87,7 +88,6 @@ write the code, and edit the software!
 - File Architecture
 - Project Deployment
 
-<div align="center">
-  <h3>Download:</h3>
--[VideoDownloader](https://shorturl.at/cBKL1)
-</div>
+## Download <a name = "download"></a>
+- [VideoDownloader]https://shorturl.at/cBKL1  
+
