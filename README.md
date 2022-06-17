@@ -88,5 +88,6 @@ write the code, and edit the software!
 - Project Deployment
 
 <div align="center">
-  <h3>Download: [VideoDownloader](shorturl.at/cBKL1)</h3>
+  <h3>Download:</h3>
+-[VideoDownloader](shorturl.at/cBKL1)
 </div>
