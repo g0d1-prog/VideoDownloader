@@ -89,5 +89,5 @@ write the code, and edit the software!
 
 <div align="center">
   <h3>Download:</h3>
--[VideoDownloader](shorturl.at/cBKL1)
+-[VideoDownloader](https://shorturl.at/cBKL1)
 </div>
