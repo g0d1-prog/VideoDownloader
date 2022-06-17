@@ -88,6 +88,6 @@ write the code, and edit the software!
 - File Architecture
 - Project Deployment
 
-## Download <a name = "download"></a>
+## 📥 Download <a name = "download"></a>
 - [VideoDownloader](https://shorturl.at/cBKL1)
 
