@@ -37,15 +37,6 @@ VideoDownloader v3, with a better logo, and better design!
 - Confirm the video or reset it and do it again
 - After you confirm the right video, it will be downloaded on your Download root folder
 
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Winrar:
-https://www.win-rar.com/download.html?&L=9
-```
-
 ### Installing
 
 A step by step series of examples that tell you how to get a development env running.
